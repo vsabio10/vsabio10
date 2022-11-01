@@ -5,4 +5,4 @@ Me interesso por Biologia e Tecnologias aplicadas à educação.
 Estou interessado em aprender um pouco mais sobre programação.
 
 ## Contatos:
-</a><a href = "vander.alves@escola.pr.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a><a href = "vsabio10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
