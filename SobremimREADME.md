@@ -7,7 +7,6 @@ Estou interessado em aprender um pouco mais sobre programação.
 ## 📫Contatos:
 </a><a href = "vsabio10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
- ?{Scracht} {https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white}
-  
-
-  https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white
+ 
+ ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+ 
